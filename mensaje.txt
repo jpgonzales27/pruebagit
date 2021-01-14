@@ -1,3 +1,3 @@
 modificando el primer commit desde gitbash
 
-hola este cambio esta desde git desktop
+modificando el commit desde git desktop
