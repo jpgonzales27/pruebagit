@@ -1,4 +1,4 @@
-Este mensaje solo esta visilble en la cabecera
+Este mensaje esta visilble en master con un merge de la cabecera
 
 modificando el primer commit desde gitbash
 
