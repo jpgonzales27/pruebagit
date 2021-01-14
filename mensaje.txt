@@ -1,4 +1,4 @@
-Este mensaje solo esta visilble en la cabecera
+Este mensaje ya lo unimos a la rama master
 
 modificando el primer commit desde gitbash
 
