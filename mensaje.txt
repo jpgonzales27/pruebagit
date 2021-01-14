@@ -1,3 +1,5 @@
+Este mensaje solo esta visilble en la cabecera
+
 modificando el primer commit desde gitbash
 
 modificando el commit desde git desktop
