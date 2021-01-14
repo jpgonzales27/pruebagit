@@ -1,3 +1,3 @@
-hola esto es mi primer mensaje de git
+modificando el primer commit desde gitbash
 
 hola este cambio esta desde git desktop
