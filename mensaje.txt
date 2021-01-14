@@ -1,6 +1,6 @@
-modificando el primer commit desde gitbash
+modificando el primer commit desde gitbash con la opciones
 
-modificando el commit desde git desktop
+opciones modificando el commit desde git desktop
 
 lista de opciones 
 * git init
