@@ -1,3 +1,11 @@
 modificando el primer commit desde gitbash
 
 modificando el commit desde git desktop
+
+lista de opciones 
+* git init
+* git add .
+* git commit -m "mensaje"
+* git status
+* git log
+ 
