@@ -3,3 +3,13 @@ Este mensaje esta visilble en master con un merge de la cabecera
 modificando el primer commit desde gitbash
 
 modificando el commit desde git desktop
+
+primer commit desde la rama opciones unido a master
+
+lista de opciones 
+* git init
+* git add .
+* git commit -m "mensaje"
+* git status
+* git log
+ 
