@@ -12,6 +12,7 @@ lista de opciones
 * git commit -m "mensaje"
 * git status
 * git log
+nose porque no sale el cambio desde github
  
  
  Editando esta linea desde el repo remoto en github
