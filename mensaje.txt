@@ -13,3 +13,5 @@ lista de opciones
 * git status
 * git log
  
+ 
+ Editando esta linea desde el repo remoto en github
